@@ -9,6 +9,11 @@
   "author": "Benjamin AFONSO",
   "license": "ISC",
   "dependencies": {
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.6",
+    "gulp-clean-css": "^2.3.2",
+    "gulp-connect": "^5.0.0",
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
     "gulp": "^3.9.1",
@@ -17,9 +22,6 @@
     "jshint": "^2.9.4",
     "morgan": "^1.7.0",
     "path": "^0.12.7"
-  },
-  "devDependencies": {
-    "browser-sync": "^2.18.6",
-    "gulp-connect": "^5.0.0"
+
   }
 }

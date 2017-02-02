@@ -1,0 +1,20 @@
+{
+  "name": "basicjsproject",
+  "description": "A basic JS Project with livereload",
+  "main": "index.js",
+  "authors": [
+    "Benjamin AFONSO"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Darkyler/SimpleLivereloadServer",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
